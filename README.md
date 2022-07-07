@@ -7,4 +7,3 @@ In 2017 I was working as PHP developer using Laravel for 3 months.
 - I'm currently living in Cracow
 - [My LinkedIn](https://www.linkedin.com/in/jacek-janur/ "LinkedIn")
 - Open for new challenges and opportunities 
-- Doberman lover 🐾
